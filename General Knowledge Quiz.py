@@ -83,7 +83,7 @@ if Question9 == ("105") or Question9  == ("one hundred and five") or Question9 =
     print("Correct answer!")
     score = score + 1
 else:
-    print("Incorrect asnwer. The correct answer is 48")
+    print("Incorrect answer. The correct answer is 105.")
 time.sleep(2)
 print("Question 10")
 time.sleep(2)
